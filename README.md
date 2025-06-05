@@ -5,7 +5,7 @@ D'autres déterminants potentiels sont également suggérés.
 
 ## Ressources principales
 
-- Données sources (comptages vélos, météo, congés...) dans le dossier `Data/`
+- Données sources (comptages vélos, météo, congés...)
 - Code R d'analyse (`Bikespeed_Analysis.R`)
 - Rapport PDF complet des résultats
 
